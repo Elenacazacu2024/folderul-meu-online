@@ -1,1 +1,1 @@
-descriere
+am adaugat test case-ul cu privire la interfata
