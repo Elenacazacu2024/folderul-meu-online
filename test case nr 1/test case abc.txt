@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-am adaugat test case-ul cu privire la interfata
-=======
-descriere
-pasi de reproducere
->>>>>>> 3ed64716d5f8c201a900bf8de58fae2e43145d07
